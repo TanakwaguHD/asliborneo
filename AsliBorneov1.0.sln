@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsliBorneov1.0", "Assembly-CSharp.csproj", "{6732BDF1-C5BB-0D0C-0061-825D45162E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsliBorneov1.0", "Assembly-CSharp-Editor.csproj", "{4CBA89EF-842D-7A76-3F26-0ADE762EA673}"
+EndProject
+Project("{FF60A4D2-9333-04BC-C118-B43F585F27C2}") = "AsliBorneov1.0", "Assembly-UnityScript.unityproj", "{48CE983C-5933-3923-276C-9F4366D41A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6732BDF1-C5BB-0D0C-0061-825D45162E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6732BDF1-C5BB-0D0C-0061-825D45162E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6732BDF1-C5BB-0D0C-0061-825D45162E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6732BDF1-C5BB-0D0C-0061-825D45162E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBA89EF-842D-7A76-3F26-0ADE762EA673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBA89EF-842D-7A76-3F26-0ADE762EA673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBA89EF-842D-7A76-3F26-0ADE762EA673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBA89EF-842D-7A76-3F26-0ADE762EA673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CE983C-5933-3923-276C-9F4366D41A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CE983C-5933-3923-276C-9F4366D41A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CE983C-5933-3923-276C-9F4366D41A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CE983C-5933-3923-276C-9F4366D41A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

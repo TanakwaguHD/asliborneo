@@ -1,0 +1,416 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1107 MB
+    Driver:   10.18.13.5946
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\TextMeshPro-1.0.55.56.0b10.dll (this message is harmless)
+Loading C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\TextMeshPro-1.0.55.56.0b10.dll into Unity Child Domain
+- Completed reload, in  1.055 seconds
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UnityProject\AsliBorneov1.0\AsliBorneo1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Terrain') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 309.886139 ms
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+There is already a virtual axis named Horizontal registered.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There is already a virtual axis named Vertical registered.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1394 -> priority: 1 
+  Thread -> id: 1bec -> priority: 1 
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+The referenced script on this Behaviour (Game Object 'HP/MANA') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP/MANA') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Terrain') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'HP') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.334737 ms
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4431.
+Total: 35.175041 ms (FindLiveObjects: 0.248560 ms CreateObjectMapping: 0.139675 ms MarkObjects: 32.470783 ms  DeleteObjects: 2.314687 ms)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
+layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 1301)
+
